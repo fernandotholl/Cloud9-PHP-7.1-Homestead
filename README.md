@@ -4,7 +4,7 @@ Cloud9 has php 5.5.9 installed by default, if you need to use PHP version 7.1 al
 The entire process can take from 10 to 15 minutes.
 
 ## Instructions
-Clone or import this repository adn execute the following command: `bash upgrade.sh`
+Clone or import this repository and execute the following command: `bash upgrade.sh`
 
 ## Before, change in php.ini to take effect
 
