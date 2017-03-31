@@ -4,7 +4,7 @@ Cloud9 has php 5.5.9 installed by default, if you need to use PHP version 7.1 al
 
 The entire process can take from 10 to 15 minutes.
 
-## Included drivers
+## Libraries and drivers included
 
 - PEAR
 - cURL
