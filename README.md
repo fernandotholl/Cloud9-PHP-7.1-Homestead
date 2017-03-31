@@ -16,7 +16,7 @@ The entire process can take from 10 to 15 minutes.
 - MongoDB
 
 ## Instructions
-Clone or import this repository and execute the following command: `bash upgrade.sh`
+Clone or import this repository and execute the following command in cloud9 console: `bash upgrade.sh`
 
 ## Before, change in php.ini to take effect
 
